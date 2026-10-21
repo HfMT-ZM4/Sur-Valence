@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1"
+   width="128.41461"
+   height="63.999996"
+   viewBox="0 0 128.41461 63.999996"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <g
+     id="g1"
+     transform="translate(0,-0.33061495)">
+	<rect 
+       	style="fill:#ffffff;fill-opacity:0.5;stroke:#000000;stroke-width:0.5px"
+		x="0" 
+		y="0" 
+		width="128" 
+		height="64"/>
+    <path
+       style="fill:#000000"
+       d="M 110.5,32 H 102 V 30.5 29 h 8.5 8.5 v 1.5 1.5 z"
+       id="path9" />
+    <path
+       style="fill:#000000"
+       d="M 69,32 H 51 V 30.5 29 h 18 18 v 1.5 1.5 z"
+       id="path8" />
+    <path
+       style="fill:#000000"
+       d="M 26,32 H 4 V 30.5 29 h 22 22 v 1.5 1.5 z"
+       id="path7" />
+    <path
+       style="fill:#000000"
+       d="M 116.5,52 H 108 V 50.5 49 h 8.5 8.5 v 1.5 1.5 z"
+       id="path6" />
+    <path
+       style="fill:#000000"
+       d="M 37.5,52 H 0 V 50.5 49 H 37.5 75 v 1.5 1.5 z"
+       id="path5" />
+    <path
+       style="fill:#000000"
+       d="M 109.5,56 H 101 V 54.5 53 h 8.5 8.5 v 1.5 1.5 z"
+       id="path4" />
+    <path
+       style="fill:#000000"
+       d="M 91.5,56 H 83 V 54.5 53 h 8.5 8.5 v 1.5 1.5 z"
+       id="path3" />
+    <path
+       style="fill:#000000"
+       d="M 43.5,56 H 14 V 54.5 53 H 43.5 73 v 1.5 1.5 z"
+       id="path2" />
+    <path
+       style="fill:#000000"
+       d="M 6.5,56 H 0 V 54.5 53 H 6.5 13 v 1.5 1.5 z"
+       id="path1" />
+  </g>
+</svg>

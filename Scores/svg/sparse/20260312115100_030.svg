@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1"
+   width="128"
+   height="64"
+   viewBox="0 0 128 64"
+   sodipodi:docname="20260312115100_030.svg"
+   inkscape:export-filename="20260312115100_030.svg"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+	<rect 
+       	style="fill:#ffffff;fill-opacity:0.5;stroke:#000000;stroke-width:0.5px"
+		x="0" 
+		y="0" 
+		width="128" 
+		height="64"/>
+  <path
+     style="fill:#000000"
+     d="M 103.5,24 H 79 V 22.5 21 h 24.5 24.5 v 1.5 1.5 z"
+     id="path5" />
+  <path
+     style="fill:#000000"
+     d="M 27.5,24 H 0 V 22.5 21 H 27.5 55 v 1.5 1.5 z"
+     id="path4" />
+  <path
+     style="fill:#000000"
+     d="M 107.5,28 H 96 V 26.5 25 h 11.5 11.5 v 1.5 1.5 z"
+     id="path3" />
+  <path
+     style="fill:#000000"
+     d="M 30.5,28 H 3 V 26.5 25 H 30.5 58 v 1.5 1.5 z"
+     id="path2" />
+  <path
+     style="fill:#000000"
+     d="M 117,44 H 106 V 42.5 41 h 11 11 v 1.5 1.5 z"
+     id="path1" />
+  <path
+     style="fill:#000000"
+     d="M 32,44 H 0 V 42.5 41 h 32 32 v 1.5 1.5 z"
+     id="path6" />
+</svg>

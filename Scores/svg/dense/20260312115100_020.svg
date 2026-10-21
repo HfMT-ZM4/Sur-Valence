@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1"
+   width="128"
+   height="64"
+   viewBox="0 0 128 64"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <g
+     id="g1">
+	<rect 
+       	style="fill:#ffffff;fill-opacity:0.5;stroke:#000000;stroke-width:0.5px"
+		x="0" 
+		y="0" 
+		width="128" 
+		height="64"/>
+    <path
+       style="fill:#000000"
+       d="M 77.5,4 H 76 V 2.5 1 H 77.5 79 V 2.5 4 Z"
+       id="path80" />
+    <path
+       style="fill:#000000"
+       d="M 43.5,4 H 42 V 2.5 1 H 43.5 45 V 2.5 4 Z"
+       id="path79" />
+    <path
+       style="fill:#000000"
+       d="M 36.5,4 H 35 V 2.5 1 H 36.5 38 V 2.5 4 Z"
+       id="path78" />
+    <path
+       style="fill:#000000"
+       d="M 31.5,4 H 30 V 2.5 1 H 31.5 33 V 2.5 4 Z"
+       id="path77" />
+    <path
+       style="fill:#000000"
+       d="M 10,4 H 5 V 2.5 1 h 5 5 V 2.5 4 Z"
+       id="path76" />
+    <path
+       style="fill:#000000"
+       d="M 110.5,8 H 108 V 6.5 5 h 2.5 2.5 V 6.5 8 Z"
+       id="path75" />
+    <path
+       style="fill:#000000"
+       d="M 92.5,8 H 91 V 6.5 5 H 92.5 94 V 6.5 8 Z"
+       id="path74" />
+    <path
+       style="fill:#000000"
+       d="M 79,8 H 76 V 6.5 5 h 3 3 V 6.5 8 Z"
+       id="path73" />
+    <path
+       style="fill:#000000"
+       d="M 47,8 H 45 V 6.5 5 h 2 2 V 6.5 8 Z"
+       id="path72" />
+    <path
+       style="fill:#000000"
+       d="M 36.5,8 H 35 V 6.5 5 H 36.5 38 V 6.5 8 Z"
+       id="path71" />
+    <path
+       style="fill:#000000"
+       d="M 17,8 H 15 V 6.5 5 h 2 2 V 6.5 8 Z"
+       id="path70" />
+    <path
+       style="fill:#000000"
+       d="M 9.5,8 H 8 V 6.5 5 H 9.5 11 V 6.5 8 Z"
+       id="path69" />
+    <path
+       style="fill:#000000"
+       d="M 104.5,12 H 102 V 10.5 9 h 2.5 2.5 v 1.5 1.5 z"
+       id="path68" />
+    <path
+       style="fill:#000000"
+       d="M 97.5,12 H 96 V 10.5 9 h 1.5 1.5 v 1.5 1.5 z"
+       id="path67" />
+    <path
+       style="fill:#000000"
+       d="M 49.5,12 H 48 V 10.5 9 h 1.5 1.5 v 1.5 1.5 z"
+       id="path66" />
+    <path
+       style="fill:#000000"
+       d="M 38.5,12 H 37 V 10.5 9 h 1.5 1.5 v 1.5 1.5 z"
+       id="path65" />
+    <path
+       style="fill:#000000"
+       d="M 30.5,12 H 29 V 10.5 9 h 1.5 1.5 v 1.5 1.5 z"
+       id="path64" />
+    <path
+       style="fill:#000000"
+       d="M 17,12 H 15 V 10.5 9 h 2 2 v 1.5 1.5 z"
+       id="path63" />
+    <path
+       style="fill:#000000"
+       d="M 3.5,12 H 2 V 10.5 9 H 3.5 5 v 1.5 1.5 z"
+       id="path62" />
+    <path
+       style="fill:#000000"
+       d="m 115,16 h -2 V 14.5 13 h 2 2 v 1.5 1.5 z"
+       id="path61" />
+    <path
+       style="fill:#000000"
+       d="M 108.5,16 H 107 V 14.5 13 h 1.5 1.5 v 1.5 1.5 z"
+       id="path60" />
+    <path
+       style="fill:#000000"
+       d="m 102,16 h -2 V 14.5 13 h 2 2 v 1.5 1.5 z"
+       id="path59" />
+    <path
+       style="fill:#000000"
+       d="M 95.5,16 H 94 V 14.5 13 h 1.5 1.5 v 1.5 1.5 z"
+       id="path58" />
+    <path
+       style="fill:#000000"
+       d="M 89,16 H 87 V 14.5 13 h 2 2 v 1.5 1.5 z"
+       id="path57" />
+    <path
+       style="fill:#000000"
+       d="M 83,16 H 81 V 14.5 13 h 2 2 v 1.5 1.5 z"
+       id="path56" />
+    <path
+       style="fill:#000000"
+       d="M 70,16 H 68 V 14.5 13 h 2 2 v 1.5 1.5 z"
+       id="path55" />
+    <path
+       style="fill:#000000"
+       d="M 63.5,16 H 62 V 14.5 13 h 1.5 1.5 v 1.5 1.5 z"
+       id="path54" />
+    <path
+       style="fill:#000000"
+       d="M 57.5,16 H 56 V 14.5 13 h 1.5 1.5 v 1.5 1.5 z"
+       id="path53" />
+    <path
+       style="fill:#000000"
+       d="M 51,16 H 49 V 14.5 13 h 2 2 v 1.5 1.5 z"
+       id="path52" />
+    <path
+       style="fill:#000000"
+       d="M 22.5,16 H 21 V 14.5 13 h 1.5 1.5 v 1.5 1.5 z"
+       id="path51" />
+    <path
+       style="fill:#000000"
+       d="M 11.5,16 H 10 V 14.5 13 h 1.5 1.5 v 1.5 1.5 z"
+       id="path50" />
+    <path
+       style="fill:#000000"
+       d="M 98.5,20 H 97 V 18.5 17 h 1.5 1.5 v 1.5 1.5 z"
+       id="path49" />
+    <path
+       style="fill:#000000"
+       d="M 65.5,20 H 64 V 18.5 17 h 1.5 1.5 v 1.5 1.5 z"
+       id="path48" />
+    <path
+       style="fill:#000000"
+       d="M 60.5,20 H 59 V 18.5 17 h 1.5 1.5 v 1.5 1.5 z"
+       id="path47" />
+    <path
+       style="fill:#000000"
+       d="M 39.5,20 H 38 V 18.5 17 h 1.5 1.5 v 1.5 1.5 z"
+       id="path46" />
+    <path
+       style="fill:#000000"
+       d="M 33,20 H 31 V 18.5 17 h 2 2 v 1.5 1.5 z"
+       id="path45" />
+    <path
+       style="fill:#000000"
+       d="M 27,20 H 25 V 18.5 17 h 2 2 v 1.5 1.5 z"
+       id="path44" />
+    <path
+       style="fill:#000000"
+       d="M 20.5,20 H 19 V 18.5 17 h 1.5 1.5 v 1.5 1.5 z"
+       id="path43" />
+    <path
+       style="fill:#000000"
+       d="M 5.5,20 H 4 V 18.5 17 H 5.5 7 v 1.5 1.5 z"
+       id="path42" />
+    <path
+       style="fill:#000000"
+       d="M 126.5,24 H 125 V 22.5 21 h 1.5 1.5 v 1.5 1.5 z"
+       id="path41" />
+    <path
+       style="fill:#000000"
+       d="M 94.5,24 H 93 V 22.5 21 h 1.5 1.5 v 1.5 1.5 z"
+       id="path40" />
+    <path
+       style="fill:#000000"
+       d="M 69.5,24 H 68 V 22.5 21 h 1.5 1.5 v 1.5 1.5 z"
+       id="path39" />
+    <path
+       style="fill:#000000"
+       d="M 46.5,24 H 45 V 22.5 21 h 1.5 1.5 v 1.5 1.5 z"
+       id="path38" />
+    <path
+       style="fill:#000000"
+       d="M 25.5,24 H 24 V 22.5 21 h 1.5 1.5 v 1.5 1.5 z"
+       id="path37" />
+    <path
+       style="fill:#000000"
+       d="M 20.5,24 H 19 V 22.5 21 h 1.5 1.5 v 1.5 1.5 z"
+       id="path36" />
+    <path
+       style="fill:#000000"
+       d="M 11.5,24 H 10 V 22.5 21 h 1.5 1.5 v 1.5 1.5 z"
+       id="path35" />
+    <path
+       style="fill:#000000"
+       d="M 102.5,28 H 101 V 26.5 25 h 1.5 1.5 v 1.5 1.5 z"
+       id="path34" />
+    <path
+       style="fill:#000000"
+       d="M 16.5,28 H 15 V 26.5 25 h 1.5 1.5 v 1.5 1.5 z"
+       id="path33" />
+    <path
+       style="fill:#000000"
+       d="M 10.5,28 H 9 V 26.5 25 h 1.5 1.5 v 1.5 1.5 z"
+       id="path32" />
+    <path
+       style="fill:#000000"
+       d="M 3.5,28 H 1 V 26.5 25 H 3.5 6 v 1.5 1.5 z"
+       id="path31" />
+    <path
+       style="fill:#000000"
+       d="M 86.5,32 H 83 V 30.5 29 h 3.5 3.5 v 1.5 1.5 z"
+       id="path30" />
+    <path
+       style="fill:#000000"
+       d="M 80.5,32 H 79 V 30.5 29 h 1.5 1.5 v 1.5 1.5 z"
+       id="path29" />
+    <path
+       style="fill:#000000"
+       d="M 20.5,32 H 19 V 30.5 29 h 1.5 1.5 v 1.5 1.5 z"
+       id="path28" />
+    <path
+       style="fill:#000000"
+       d="M 15,32 H 13 V 30.5 29 h 2 2 v 1.5 1.5 z"
+       id="path27" />
+    <path
+       style="fill:#000000"
+       d="M 7.5,32 H 6 V 30.5 29 H 7.5 9 v 1.5 1.5 z"
+       id="path26" />
+    <path
+       style="fill:#000000"
+       d="M 105.5,36 H 104 V 34.5 33 h 1.5 1.5 v 1.5 1.5 z"
+       id="path25" />
+    <path
+       style="fill:#000000"
+       d="M 67.5,36 H 66 V 34.5 33 h 1.5 1.5 v 1.5 1.5 z"
+       id="path24" />
+    <path
+       style="fill:#000000"
+       d="M 33.5,36 H 32 V 34.5 33 h 1.5 1.5 v 1.5 1.5 z"
+       id="path23" />
+    <path
+       style="fill:#000000"
+       d="M 26.5,36 H 25 V 34.5 33 h 1.5 1.5 v 1.5 1.5 z"
+       id="path22" />
+    <path
+       style="fill:#000000"
+       d="m 118,40 h -2 V 38.5 37 h 2 2 v 1.5 1.5 z"
+       id="path21" />
+    <path
+       style="fill:#000000"
+       d="M 105.5,40 H 104 V 38.5 37 h 1.5 1.5 v 1.5 1.5 z"
+       id="path20" />
+    <path
+       style="fill:#000000"
+       d="M 3,40 H 1 V 38.5 37 h 2 2 v 1.5 1.5 z"
+       id="path19" />
+    <path
+       style="fill:#000000"
+       d="M 102.5,44 H 101 V 42.5 41 h 1.5 1.5 v 1.5 1.5 z"
+       id="path18" />
+    <path
+       style="fill:#000000"
+       d="M 95.5,44 H 94 V 42.5 41 h 1.5 1.5 v 1.5 1.5 z"
+       id="path17" />
+    <path
+       style="fill:#000000"
+       d="M 88.5,44 H 87 V 42.5 41 h 1.5 1.5 v 1.5 1.5 z"
+       id="path16" />
+    <path
+       style="fill:#000000"
+       d="M 111.5,48 H 110 V 46.5 45 h 1.5 1.5 v 1.5 1.5 z"
+       id="path15" />
+    <path
+       style="fill:#000000"
+       d="M 89.5,48 H 88 V 46.5 45 h 1.5 1.5 v 1.5 1.5 z"
+       id="path14" />
+    <path
+       style="fill:#000000"
+       d="M 39.5,48 H 38 V 46.5 45 h 1.5 1.5 v 1.5 1.5 z"
+       id="path13" />
+    <path
+       style="fill:#000000"
+       d="M 26.5,48 H 25 V 46.5 45 h 1.5 1.5 v 1.5 1.5 z"
+       id="path12" />
+    <path
+       style="fill:#000000"
+       d="M 20.5,48 H 19 V 46.5 45 h 1.5 1.5 v 1.5 1.5 z"
+       id="path11" />
+    <path
+       style="fill:#000000"
+       d="M 113.5,52 H 112 V 50.5 49 h 1.5 1.5 v 1.5 1.5 z"
+       id="path10" />
+    <path
+       style="fill:#000000"
+       d="M 74.5,52 H 73 V 50.5 49 h 1.5 1.5 v 1.5 1.5 z"
+       id="path9" />
+    <path
+       style="fill:#000000"
+       d="m 118,56 h -2 V 54.5 53 h 2 2 v 1.5 1.5 z"
+       id="path8" />
+    <path
+       style="fill:#000000"
+       d="M 85.5,56 H 84 V 54.5 53 h 1.5 1.5 v 1.5 1.5 z"
+       id="path7" />
+    <path
+       style="fill:#000000"
+       d="M 72.5,56 H 71 V 54.5 53 h 1.5 1.5 v 1.5 1.5 z"
+       id="path6" />
+    <path
+       style="fill:#000000"
+       d="M 66.5,56 H 65 V 54.5 53 h 1.5 1.5 v 1.5 1.5 z"
+       id="path5" />
+    <path
+       style="fill:#000000"
+       d="M 60.5,56 H 59 V 54.5 53 h 1.5 1.5 v 1.5 1.5 z"
+       id="path4" />
+    <path
+       style="fill:#000000"
+       d="M 55.5,60 H 54 V 58.5 57 h 1.5 1.5 v 1.5 1.5 z"
+       id="path3" />
+    <path
+       style="fill:#000000"
+       d="M 46.5,60 H 45 V 58.5 57 h 1.5 1.5 v 1.5 1.5 z"
+       id="path2" />
+    <path
+       style="fill:#000000"
+       d="M 4.5,60 H 3 V 58.5 57 H 4.5 6 v 1.5 1.5 z"
+       id="path1" />
+  </g>
+</svg>

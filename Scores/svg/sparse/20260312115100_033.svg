@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg1" xmlns="http://www.w3.org/2000/svg" width="128" height="64" xmlns:svg="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 128 64">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #000;
+        stroke-width: 0px;
+      }
+    </style>
+  </defs>
+	<rect 
+       	style="fill:#ffffff;fill-opacity:0.5;stroke:#000000;stroke-width:0.5px"
+		x="0" 
+		y="0" 
+		width="128" 
+		height="64"/>
+  <path id="path1" class="cls-1" d="M65.5,20h-33.5v-3h67v3h-33.5Z"/>
+</svg>
