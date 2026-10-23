@@ -63,13 +63,14 @@ This friction is desired and should by no means circumvented by a defining a str
 ## The Game 
 
 <img width="3028" height="2078" alt="image" src="https://github.com/user-attachments/assets/996f08bf-86f7-45a8-8ea3-747f572a1997" />
+<br>
 As you can see from the screenshot, there are six rows on each of the five pages.
 The task is to first press (on your iPads) on one of the pictures on the right.
 This activates a row shown by a red square drawn around it. This also triggers sound playback as well as video generation.
 The sound consists of a sonification of the same image with 64 oscillators producing a reach sound with pitches corresponding to prime-number partials (1, 3, 5, 7, 11, 17, 19, 23, etc) of the low Bb on the contrabassoon. 
-
+<br>
 <img width="1424" height="374" alt="image" src="https://github.com/user-attachments/assets/ecc8a520-7b8d-4dd9-beae-d210d1b0658e" />
-
+<br>
 Each instruments has a color associated with it:
 Contrabasson: purple
 Cello: blue
