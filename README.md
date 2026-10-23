@@ -87,3 +87,6 @@ The red bounding box disappears once the electronic sound has finished playing, 
 
 The piece finishes as soon as, on the fifth page, the performers collectively decide to no longer activate a row.
 
+## Video
+A live video of the performance is available from https://www.youtube.com/watch?v=BFNJLtO67hE&list=RDBFNJLtO67hE&start_radio=1
+
