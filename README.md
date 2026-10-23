@@ -16,8 +16,8 @@ NB.: do this only once to download further node.js resources
 - Click on [script start] and take a note of the IP address displayed in the Max console. It should look something like this:
   - node.script: [ "load webpage at", "http://localhost:3002" ]
   - node.script: [ "or", "http://192.168.2.194:3002" ]
-- Load the Sur|Valence.XML score from within the MaxScore Editor: Click on Open Editor and select Load Score... from its File menu 
-- Turn Overdrive off and press Caps Lock to activate Picster mode 
+- Load the Sur|Valence.XML score from within the MaxScore Editor. For this, click on Open Editor and select Load Score... from its File menu 
+- Turn Overdrive off, press Caps Lock to activate Picster mode and turn Audio on (Sur|Valence expects four-channel amplification; if not available map audio channels 3 & 4 to outputs 1 & 2 in Audio I/O Mappings)
 - Click on the [picster buttonmode 1] message to the MaxScore Editor
 - Click on the [init] button to initialise the video player
 - Move the sur|valence Jitter window to the projector and press esc to make the window full screen
@@ -25,4 +25,10 @@ NB.: do this only once to download further node.js resources
 - Connect the iPad to the router's SSID
 - Open a browser (ideally Safari or Chrome)
 - Enter the address displayed in the Max Console and add suffix /1 to the address so it becomes something like this 192.168.2.194:3002/1
-- By now you should see the score. You may want to adjust the zoom so you can see all six rows 
+- By now you should see the score. You may want to adjust the zoom to view all six rows of the score.
+- Click on one the right-most boxes displaying the low-resolution images from speeding tickets. This should trigger
+  1. sound playback
+  2. video playback
+  3. display of a red rectangle around the row in question
+ 
+## Instructions
