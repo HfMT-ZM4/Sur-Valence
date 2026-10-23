@@ -1,5 +1,13 @@
 # Sur|Valence
-Georg Hajdu's repository for the multimedia composition Sur|Valence
+Sur|Valence is a game-like composition derived entirely from images captured by surveillance cameras and attached by authorities to speeding tickets as evidence of traffic violations. These images become the sole source material for the work. Through a combination of classical algorithms, machine learning techniques, and generative processes, they are transformed into sound, notation, and moving image.
+
+The work is scored for contrabassoon, cello, viola, E-flat clarinet, piccolo, electronics, and video. Rather than reading from a conventional score, the performers interact with a shared system of graphic notation distributed across individual iPads. The piece unfolds through a set of simple rules that allows the performers to navigate the material collectively, creating a form that is never exactly the same twice.
+
+Each image gives rise to a complex chain of transformations. The original surveillance photographs are sonified using sixty-four oscillators, producing dense harmonic textures whose spectral content is derived directly from the visual information. At the same time, the images generate graphical scores and trigger, in the performance, video sequences that reveal their origins. These video fragments are further transformed through artificial intelligence, producing uncanny animated interpretations of the captured moments. Gradually, these animations dissolve into QR codes, emphasizing the transformation of lived experience into machine-readable information. Once an action has been recorded by the surveillance apparatus, identity itself becomes data—compressed, encoded, and ultimately monetized through the mechanism of the fine.
+
+The performers navigate a score consisting of five pages, each containing a collection of visual figures. Activating a figure initiates a chain of sonic and visual events while simultaneously determining harmonic relationships based on prime-number partials of the contrabassoon's low B-flat. Additional layers may be introduced, overlapped, or abandoned at any moment, allowing the musicians to negotiate the musical form in real time. The resulting performance oscillates between collective decision-making and algorithmic determination, between human agency and systemic control.
+
+Neither the exact sequence of events nor the overall duration is fixed. The piece concludes only when, on the final page, the performers collectively decide to cease activating new material. In this way, *Sur|Valence* remains suspended between game, composition, and social experiment, inviting reflection on the invisible systems that increasingly observe, classify, and regulate contemporary life.
 ## Installation
 ### Computer
 - Install the most recent version of **Max** from cycling74.com
