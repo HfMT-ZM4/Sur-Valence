@@ -2,13 +2,13 @@
 Georg Hajdu's repository for the multimedia composition Sur|Valence
 ## Installation
 ### Computer
-- Install the most recent version of Max from Cycling '74
-- Open Max and install the odot and CNMAT Externals package from the Max Package Manager
-- Download Drawsocket from https://github.com/drawsocket/drawsocket-max/releases/download/0.1111.0/drawsocket-max.tar.gz and move drawsocket-max to the Max 9/Library/ folder
+- Install the most recent version of **Max** from cycling74.com
+- Open Max and install the **odot** and **CNMAT Externals** package from the Max Package Manager
+- Download **Drawsocket** from https://github.com/drawsocket/drawsocket-max/releases/download/0.1111.0/drawsocket-max.tar.gz and move drawsocket-max to the Max 9/Library/ folder
 - Quit Max
-- Install MaxScore from computermusicnotation.com into /Users/[user]/Documents/Max 9/Packages/
+- Install **MaxScore** from computermusicnotation.com into /Users/[user]/Documents/Max 9/Packages/
 - Run the Java installer if asked
-- Install Sur|Valence from https://github.com/HfMT-ZM4/Sur-Valence/archive/refs/heads/main.zip and move folder to Max 9/Library/
+- Install **Sur|Valence** from https://github.com/HfMT-ZM4/Sur-Valence/archive/refs/heads/main.zip and move folder to Max 9/Library/
 - Launch Max and open the sur|valence player.maxpat and the sur|valence-video-player.maxpat patches from Max 9/Library/patchers/
 - In sur|valence player.maxpat click on [script npm install drawocket]. 
 NB.: do this only once to download further node.js resources 
