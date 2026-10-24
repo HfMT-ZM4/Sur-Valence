@@ -52,9 +52,8 @@ The music is delivered in form of an interactive score on five pages. Each line 
 individual photos captured by a camera monitoring car speed with decreasing abstraction from the original photo. There is
 a total of 30 lines. The pages are displayed a tablet computer where each image acts as a control element triggering (a) the
 movement of a cursor running across an image, (b) sound synthesis and/or (c) video playback.
-Each page features a lead instrument. The first page emphasizes the contrabassoon, the second page the cello, the third
-page the viola, the fourth page the Eb clarinet and the last one the piccolo flute. The other instruments act as
-accompaniment to the lead instrument or pause. The performers decide on their own which actions to execute by pressing
+
+The performers decide on their own which actions to execute by pressing
 the images and when to proceed to the next page. Once they have advanced to the next page they cannot return to the
 previous one. The form emerges as the result of the interplay between performers who make their decisions
 spontaneously, whereby it is very likely that some choices made by one performer contradict the choices made the others.
@@ -64,14 +63,10 @@ This friction is desired and should by no means circumvented by a defining a str
 
 <img width="3028" height="2078" alt="image" src="https://github.com/user-attachments/assets/996f08bf-86f7-45a8-8ea3-747f572a1997" />
 <br>
-As you can see from the screenshot, there are six rows on each of the five pages.
-The task is to first press (on your iPads) on one of the pictures on the right.
-This activates a row shown by a red square drawn around it. This also triggers sound playback as well as video generation.
-The sound consists of a sonification of the same image with 64 oscillators producing a reach sound with pitches corresponding to prime-number partials (1, 3, 5, 7, 11, 17, 19, 23, etc) of the low Bb on the contrabassoon. 
-
-
-<img width="1424" height="374" alt="image" src="https://github.com/user-attachments/assets/ecc8a520-7b8d-4dd9-beae-d210d1b0658e" />
-
+As shown on the screenshot, each of the five pages has six rows with three figures each. The figure as referred to as *lines-score*, *points-score* and *photo-button* in left to right order).
+Each page features a lead instrument. The first page emphasizes the contrabassoon, the second page the cello, the third
+page the viola, the fourth page the Eb clarinet and the last one the piccolo flute. The other instruments act as
+accompaniment to the lead instrument or pause. 
 
 Each instruments has a color associated with it:
 Contrabasson: purple
@@ -80,12 +75,20 @@ Viola: green
 Eb clarinet: yellow
 Piccolo: red
 
-Once a row has been activated the player playing the lowest instrument in the left rectangle clicks on left rectangle and starts the cursor synchronizing the musicians with a cursor running across the rectangle.
-Players not involved in the performance of the rectangle may, on their own accord, click on the square in the middle and add a solo on top. The players involved in the rendering may spontaneously decide to abandon the rectangle and decide to join the peformance of the rectangle in the middle. This is particularly relevant when all performers are involved in the performance of a rectangle.
-The players are free to choose their pitches and playing techniques but should take the resulting harmony into consideration. The pitches are indicated approximately by the height of the colored lines. 
-The red bounding box disappears once the electronic sound has finished playing, at which time either one of the musicians decides that it's time to proceed to the next page and presses the double arrow or activates a new row. A new row can also be activated while the previous one is still active yielding overlapping sounds. The performers should not activate more than four rows at a time, but a row can be activated several times. It's also permissible to advance to the next page without activating all rows.
+Each page assigns the task of conducting the piece to a member of the ensemble in the order high to low in terms of instrument range. The conductor's task is to press (on the iPads/tablet) one of the photo-buttons on the right.
+This activates the row, draws a red square around it and triggers sound and well as video playback.
 
-The piece finishes as soon as, on the fifth page, the performers collectively decide to no longer activate a row.
+Once a row has been activated the conductor may or may not click on the lines-score on the left within an activated row and start synchronizing the musicians with a cursor running across the lines-score. The conductor may also click on the points-score in the middle and prompt a musician to add a solo on top the texture created by the playback of the lines-score. This addresses primarily players not involved in the performance of the lines-scores, yet players involved may spontaneously decide to abandon a lines-score and decide to join the peformance of a points-score. Abandonment becomes central when all performers are involved in the performance of a lines-score.
+
+The red bounding box disappears once an electronic sound has finished playing, at which time either one of the musicians decides that it's time to proceed to the next page and presses the double arrow or activates the same or a new row. A new row can also be activated while the previous one is still active yielding overlapping sounds. The performers should not activate more than four rows at a time, but a row can be activated several times. It's also permissible to advance to the next page without having activating all rows on a page.
+
+The sound consists of a sonification of the same image with 64 oscillators producing a reach sound with pitches corresponding to prime-number partials (1, 3, 5, 7, 11, 17, 19, 23, etc) of the low Bb on the contrabassoon. 
+
+<img width="1424" height="374" alt="image" src="https://github.com/user-attachments/assets/ecc8a520-7b8d-4dd9-beae-d210d1b0658e" />
+
+The players are free to choose their pitches and playing techniques but should take the resulting harmony into consideration. The pitches are indicated approximately by the height of the colored lines. 
+
+The piece finishes as soon as, on the fifth page, the performers collectively decide to no longer activate a row. Once the piece is over the conductor pressed the © sign to display the credits.
 
 ## Video
 A live video of the premiere is available from https://www.youtube.com/watch?v=BFNJLtO67hE&list=RDBFNJLtO67hE&start_radio=1
