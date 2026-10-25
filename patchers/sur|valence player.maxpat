@@ -67,14 +67,15 @@
             {
                 "box": {
                     "id": "obj-33",
+                    "linecount": 2,
                     "maxclass": "message",
                     "numinlets": 2,
                     "numoutlets": 1,
                     "outlettype": [ "" ],
-                    "patching_rect": [ 205.0, 83.0, 156.0, 22.0 ],
+                    "patching_rect": [ 205.0, 83.0, 156.0, 35.0 ],
                     "presentation": 1,
-                    "presentation_rect": [ 42.5, 155.0, 156.0, 22.0 ],
-                    "text": "script npm install drawocket"
+                    "presentation_rect": [ 42.5, 155.0, 162.0, 22.0 ],
+                    "text": "script npm install drawsocket"
                 }
             },
             {
