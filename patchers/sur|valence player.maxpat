@@ -139,6 +139,8 @@
                     "outlettype": [ "signal", "signal", "signal", "signal", "", "float", "list" ],
                     "parameter_enable": 1,
                     "patching_rect": [ 588.0, 1133.0, 409.0, 84.0 ],
+                    "presentation": 1,
+                    "presentation_rect": [ 858.0, 68.5, 78.0, 84.0 ],
                     "saved_attribute_attributes": {
                         "valueof": {
                             "parameter_longname": "live.gain~",
