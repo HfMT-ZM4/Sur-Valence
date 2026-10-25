@@ -12,33 +12,33 @@ Neither the exact sequence of events nor the overall duration is fixed. The piec
 ## Installation and Technical Setup
 
 The piece requires a computer running a Max patch and five iPads or Android tablets connected to a local network, a four-
-channel sound system and video projection. 
+channel sound system (1 = FL, 2 = FR, 3 = BR, 4 = BL) and video projection (HD recommended). 
 
 ### Computer
 
-- Install the most recent version of **Max** from cycling74.com
+- Install the most recent version of **Max 9** from cycling74.com (Max 9.2 as of this writing)
 - Open Max and install the **odot** and **CNMAT Externals** package from the Max Package Manager
-- Download **Drawsocket** from https://github.com/drawsocket/drawsocket-max/releases/download/0.1111.0/drawsocket-max.tar.gz and move drawsocket-max to the Max 9/Library/ folder
+- Download **Drawsocket** from https://github.com/drawsocket/drawsocket-max/releases/download/0.1111.0/drawsocket-max.tar.gz and move **drawsocket-max** to the Max 9/Library/ folder
 - Quit Max
 - Install **MaxScore** from computermusicnotation.com into /Users/[user]/Documents/Max 9/Packages/
 - Run the Java installer if asked
-- Install **Sur|Valence** from https://github.com/HfMT-ZM4/Sur-Valence/archive/refs/heads/main.zip and move folder to Max 9/Library/
+- Install **Sur|Valence** from https://github.com/HfMT-ZM4/Sur-Valence/archive/refs/heads/main.zip and move the downloaded folder to Max 9/Library/
 - Launch Max and open the sur|valence player.maxpat and the sur|valence-video-player.maxpat patches from Max 9/Library/patchers/
-- In sur|valence player.maxpat click on [script npm install drawocket]. 
+- In sur|valence player.maxpat click on [script npm install drawsocket]. 
 NB.: do this only once to download further node.js resources 
 - Start a dedicated Wi-Fi router and connect your computer to the router's SSID
-- Click on [script start] and take a note of the IP address displayed in the Max console. It should look something like this:
+- Click on [script start] and take a note of the IP address displayed in the Max console. It should look something like this (use the second line):
   - node.script: [ "load webpage at", "http://localhost:3002" ]
   - node.script: [ "or", "http://192.168.2.194:3002" ]
 - Load the Sur|Valence.XML score from within the MaxScore Editor. For this, click on Open Editor and select Load Score... from its File menu 
 - Turn Overdrive off, press Caps Lock to activate Picster mode and turn Audio on (Sur|Valence expects four-channel amplification; if not available map audio channels 3 & 4 to outputs 1 & 2 in Audio I/O Mappings)
-- Click on the [picster buttonmode 1] message to the MaxScore Editor
+- Click on the [picster buttonmode 1] message 
 - Click on the [init] button to initialise the video player
 - Move the sur|valence Jitter window to the projector and press esc to make the window full screen
 ### iPad
 - Connect the iPad to the router's SSID
 - Open a browser (ideally Safari or Chrome)
-- Enter the address displayed in the Max Console and add suffix /1 to the address so it becomes something like this 192.168.2.194:3002/1
+- Enter the address displayed in the Max Console and add suffix /1 to the address so it becomes something like this 192.168.2.194:3002/1.This applies to all iPads.
 - By now you should see the score. You may want to adjust the zoom to view all six rows of the score.
 - Click on one the right-most boxes displaying the low-resolution images from speeding tickets. This should trigger
   1. sound playback
@@ -63,7 +63,7 @@ This friction is desired and should by no means circumvented by a defining a str
 
 <img width="3028" height="2078" alt="image" src="https://github.com/user-attachments/assets/996f08bf-86f7-45a8-8ea3-747f572a1997" />
 <br>
-As shown on the screenshot, each of the five pages has six rows with three figures each. The figure as referred to as *lines-score*, *points-score* and *photo-button* in left to right order).
+As shown on the screenshot, each of the five pages has six rows with three figures each. The figures are referred to as *lines-score*, *points-score* and *photo-button* (in left to right order). A lines-score is prescriptive and has to be interpreted as precisely as possible whereas a points-score is descriptive a gives the performer the freedom to chose a path through the score. In both cases, the performer has to follow the movement of the cursor.  
 Each page features a lead instrument. The first page emphasizes the contrabassoon, the second page the cello, the third
 page the viola, the fourth page the Eb clarinet and the last one the piccolo flute. The other instruments act as
 accompaniment to the lead instrument or pause. 
