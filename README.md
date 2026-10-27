@@ -31,6 +31,7 @@ NB.: do this only once to download further node.js resources
   - node.script: [ "load webpage at", "http://localhost:3002" ]
   - node.script: [ "or", "http://192.168.2.194:3002" ]
 - Load the Sur|Valence.XML score from within the MaxScore Editor. For this, click on Open Editor and select Load Score... from its File menu 
+- In the Editor, go to Preferences (shift-3) and make sure that Drawsocket is activated for SVG output (lower right-hand corner).
 - Turn Overdrive off, press Caps Lock to activate Picster mode and turn Audio on (Sur|Valence expects four-channel amplification; if not available map audio channels 3 & 4 to outputs 1 & 2 in Audio I/O Mappings)
 - Click on the [picster buttonmode 1] message 
 - Click on the [init] button to initialise the video player
