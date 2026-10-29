@@ -9,8 +9,10 @@
             "modernui": 1
         },
         "classnamespace": "box",
-        "rect": [ 34.0, 95.0, 978.0, 266.0 ],
+        "openrect": [ 34.0, 95.0, 978.0, 266.0 ],
+        "openrectmode": 0,
         "openinpresentation": 1,
+        "devicewidth": 978.0,
         "boxes": [
             {
                 "box": {
@@ -19,7 +21,7 @@
                     "maxclass": "comment",
                     "numinlets": 1,
                     "numoutlets": 0,
-                    "patching_rect": [ 727.0, 31.0, 217.0, 27.0 ],
+                    "patching_rect": [ 972.0, 283.0, 217.0, 27.0 ],
                     "presentation": 1,
                     "presentation_rect": [ 729.0, 31.0, 109.0, 27.0 ],
                     "text": "Settings"
@@ -32,7 +34,7 @@
                     "maxclass": "comment",
                     "numinlets": 1,
                     "numoutlets": 0,
-                    "patching_rect": [ 495.0, 31.0, 217.0, 27.0 ],
+                    "patching_rect": [ 972.0, 316.0, 217.0, 27.0 ],
                     "presentation": 1,
                     "presentation_rect": [ 493.0, 31.0, 109.0, 27.0 ],
                     "text": "Cursors"
@@ -45,7 +47,7 @@
                     "maxclass": "comment",
                     "numinlets": 1,
                     "numoutlets": 0,
-                    "patching_rect": [ 258.0, 29.0, 217.0, 27.0 ],
+                    "patching_rect": [ 972.0, 349.0, 217.0, 27.0 ],
                     "presentation": 1,
                     "presentation_rect": [ 257.0, 31.0, 109.0, 27.0 ],
                     "text": "MaxScore"
@@ -58,7 +60,7 @@
                     "maxclass": "comment",
                     "numinlets": 1,
                     "numoutlets": 0,
-                    "patching_rect": [ 302.0, 405.0, 217.0, 27.0 ],
+                    "patching_rect": [ 972.0, 250.0, 217.0, 27.0 ],
                     "presentation": 1,
                     "presentation_rect": [ 22.0, 31.0, 109.0, 27.0 ],
                     "text": "Drawsocket"
@@ -185,7 +187,7 @@
                     "numinlets": 2,
                     "numoutlets": 1,
                     "outlettype": [ "" ],
-                    "patching_rect": [ 746.0, 487.0, 40.0, 29.0 ],
+                    "patching_rect": [ 746.0, 526.0, 40.0, 29.0 ],
                     "presentation": 1,
                     "presentation_rect": [ 745.0, 68.5, 34.0, 29.0 ],
                     "text": "init",
@@ -8847,7 +8849,7 @@
                     "numinlets": 2,
                     "numoutlets": 1,
                     "outlettype": [ "" ],
-                    "patching_rect": [ 379.0, 23.0, 121.0, 22.0 ],
+                    "patching_rect": [ 379.0, 33.5, 121.0, 22.0 ],
                     "presentation": 1,
                     "presentation_rect": [ 266.0, 72.0, 121.0, 22.0 ],
                     "text": "picster buttonmode 1"
@@ -9307,7 +9309,7 @@
                     "maxclass": "panel",
                     "numinlets": 1,
                     "numoutlets": 0,
-                    "patching_rect": [ 440.79, 379.95, 128.0, 128.0 ],
+                    "patching_rect": [ 792.0, 386.0, 128.0, 128.0 ],
                     "presentation": 1,
                     "presentation_rect": [ 22.0, 31.0, 229.0, 206.0 ]
                 }
@@ -9318,7 +9320,7 @@
                     "maxclass": "panel",
                     "numinlets": 1,
                     "numoutlets": 0,
-                    "patching_rect": [ 270.0, 64.0, 128.0, 128.0 ],
+                    "patching_rect": [ 658.0, 386.0, 128.0, 128.0 ],
                     "presentation": 1,
                     "presentation_rect": [ 257.0, 31.0, 229.0, 206.0 ]
                 }
@@ -9329,7 +9331,7 @@
                     "maxclass": "panel",
                     "numinlets": 1,
                     "numoutlets": 0,
-                    "patching_rect": [ 506.0, 63.0, 128.0, 128.0 ],
+                    "patching_rect": [ 928.0, 386.0, 128.0, 128.0 ],
                     "presentation": 1,
                     "presentation_rect": [ 493.0, 31.0, 229.0, 206.0 ]
                 }
@@ -9340,7 +9342,7 @@
                     "maxclass": "panel",
                     "numinlets": 1,
                     "numoutlets": 0,
-                    "patching_rect": [ 729.0, 61.0, 128.0, 128.0 ],
+                    "patching_rect": [ 1061.0, 386.0, 128.0, 128.0 ],
                     "presentation": 1,
                     "presentation_rect": [ 729.0, 31.0, 229.0, 206.0 ]
                 }
@@ -9985,17 +9987,6 @@
             "obj-11": [ "live.gain~[2]", "live.gain~", 0 ],
             "obj-31": [ "live.gain~[3]", "live.gain~", 0 ],
             "obj-4": [ "live.gain~", "live.gain~", 0 ],
-            "obj-7::obj-17::obj-14::obj-5::obj-16": [ "live.menu[857]", "live.menu", 0 ],
-            "obj-7::obj-17::obj-14::obj-5::obj-19": [ "live.toggle[1245]", "live.toggle", 0 ],
-            "obj-7::obj-17::obj-14::obj-5::obj-21": [ "live.toggle[1410]", "live.toggle", 0 ],
-            "obj-7::obj-17::obj-14::obj-5::obj-237": [ "live.menu[623]", "live.menu", 0 ],
-            "obj-7::obj-17::obj-14::obj-5::obj-24": [ "live.button[312]", "live.button", 0 ],
-            "obj-7::obj-17::obj-14::obj-5::obj-26": [ "live.menu[779]", "bracket", 0 ],
-            "obj-7::obj-17::obj-14::obj-5::obj-28": [ "live.toggle[1244]", "live.toggle", 0 ],
-            "obj-7::obj-17::obj-14::obj-5::obj-51": [ "live.toggle[1411]", "live.toggle", 0 ],
-            "obj-7::obj-17::obj-14::obj-5::obj-70": [ "live.text[312]", "live.text", 0 ],
-            "obj-7::obj-17::obj-14::obj-5::obj-72": [ "track[312]", "track", 0 ],
-            "obj-7::obj-17::obj-14::obj-5::obj-8": [ "live.toggle[1412]", "live.toggle", 0 ],
             "obj-7::obj-17::obj-23": [ "live.tab[31]", "live.tab", 0 ],
             "obj-7::obj-17::obj-28::obj-4::obj-55": [ "live.menu", "live.menu", 0 ],
             "obj-7::obj-17::obj-28::obj-4::obj-62": [ "live.menu[54]", "live.menu", 0 ],
