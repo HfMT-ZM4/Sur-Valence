@@ -8734,7 +8734,7 @@
                     "numoutlets": 4,
                     "outlettype": [ "signal", "signal", "signal", "signal" ],
                     "patching_rect": [ 587.0, 928.0, 410.0000000000002, 22.0 ],
-                    "text": "poly~ sur|valence-synth-poly 4"
+                    "text": "poly~ sur-valence-synth-poly 4"
                 }
             },
             {
